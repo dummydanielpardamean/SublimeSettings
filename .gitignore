@@ -1,0 +1,19 @@
+/.FileManager
+/Package Control.cache
+.vintageousrc
+.dmg
+.DS_Store
+.DS_Store?
+.exe
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+oscrypto-ca-bundle.crt
+SyncSettings.sublime-settings
+Package Control.cache
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Thumbs.db
+.log

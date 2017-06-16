@@ -1,0 +1,596 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun\tInsert function snippet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "edit proj",
+		"selected_items":
+		[
+			[
+				"edit proj",
+				"Project: Edit Project"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"upload",
+				"Sync Settings: Upload"
+			],
+			[
+				"add projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"remove proje",
+				"Project Manager: Remove Project"
+			],
+			[
+				"autoprefix",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"comb",
+				"Run CSScomb"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"project add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project remove",
+				"Project Manager: Remove Project"
+			],
+			[
+				"projectmana rem",
+				"Project Manager: Remove Project"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"markdown",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"pcdp",
+				"Package Control: Disable Package"
+			],
+			[
+				"vinta",
+				"Vintageous: Open .vintageousrc"
+			],
+			[
+				"pccip",
+				"Package Control: Install Package"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcipr",
+				"Package Control: Discover Packages"
+			],
+			[
+				"incre",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				":q",
+				"Git: Quick Add"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"prcp",
+				"Package Control: Remove Package"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"find k",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"qtn",
+				"QuickThemes: next"
+			],
+			[
+				"qtp",
+				"QuickThemes: previous"
+			],
+			[
+				"qt",
+				"QuickThemes: next"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"gutter",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"cip",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitGutter: Support Info"
+			],
+			[
+				"packagereso",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package resource ",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"PHPUnit: ",
+				"PHPUnit: Run"
+			],
+			[
+				"phpuni",
+				"PHPUnit: Run"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"picp",
+				"Package Control: Install Package"
+			],
+			[
+				"upla",
+				"Sync Settings: Upload"
+			],
+			[
+				"markdownlive",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"s",
+				"Sync Settings: Upload"
+			]
+		],
+		"width": 296.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"view.substr(view.line(view.sel()[0]))",
+			"self.view.substr(self.view.line(self.view.sel()[0]))",
+			"view.run_command('example')",
+			"view.substr(view.line(view.sel()[0]))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/code/PortofolioLandingPage"
+	],
+	"file_history":
+	[
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager/PortofolioLandingPage.sublime-project",
+		"/C/Users/Asus/code/PortofolioLandingPage/src/components/Hello.vue",
+		"/C/Users/Asus/code/PortofolioLandingPage/src/App.vue",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/C/Users/Asus/code/sample/src/App.vue",
+		"/C/Users/Asus/Desktop/learning-vue/src/App.vue",
+		"/C/Users/Asus/Desktop/learning-vue/src/components/Hello.vue",
+		"/C/Users/Asus/code/PortofolioLandingPage/src/main.js",
+		"/C/Users/Asus/code/PortofolioLandingPage/index.html",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/Users/Asus/Desktop/style.css",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/ChangeQuotes/ChangeQuotes.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/ChangeQuotes.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/php-snippets/README.md",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/app/User.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/Asus/IdeaProjects/GettingStartedWithJavaFX/src/sample/AlertBox.java",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/QuickThemes.sublime-settings",
+		"/C/Users/Asus/Desktop/Express/server/config.js",
+		"/C/Users/Asus/Desktop/Express/node_modules/express/index.js",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/FindKeyConflicts/FindKeyConflicts.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/C/Users/Asus/.sync-settings.log",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/php/xdebug.log",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/htdocs.sublime-project",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/php/www/index.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/.vintageousrc",
+		"/C/Users/Asus/Desktop/laravel-application/app/lorem",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Kernel.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/QuickThemes.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/bootstrap/autoload.php",
+		"/F/Videos/Programming/BradTraversy Channel/Python Flask From Scratch/playlist.pls",
+		"/C/Users/Asus/Desktop/interviews-master/Company/Facebook/3Sum.java",
+		"/C/Users/Asus/AppData/Roaming/mpv/mpv.conf",
+		"/C/Users/Asus/Pictures/Wallpapers/anders-jilden-108186.jpg",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/Asus/Desktop/style.css.txt",
+		"/C/Users/Asus/Desktop/laravel-application/public/js/app.js",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/routes/web.php",
+		"/C/Users/Asus/Desktop/laravel-application/routes/console.php",
+		"/C/Users/Asus/Desktop/laravel-application/database/factories/ModelFactory.php",
+		"/C/Users/Asus/Desktop/learning-vue/.babelrc",
+		"/C/Users/Asus/Desktop/learning-vue/src/router/index.js",
+		"/C/Users/Asus/Desktop/learning-vue/dist/index.html",
+		"/C/Users/Asus/Desktop/learning-vue/dist/static/css/app.0ee85ddaf7586d9cba4e09bd4d8d9bbf.css",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/TodoTagManagement.py",
+		"/C/Users/Asus/Desktop/laravel-application/storage/logs/laravel.log",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/dian/tes.txt",
+		"/C/Users/Asus/Desktop/laravel-application/app/joko/readme.txt",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/Desktop/laravel-application/laravel-application.sublime-project",
+		"/C/Users/Asus/Desktop/bootstrap.css",
+		"/C/Users/Asus/Desktop/list.todo",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionNotValidBundle/ExtensionNotValidBundle.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/sidebar-adjustment.sublime-macro",
+		"/C/Users/Asus/Desktop/laravel-application/composer.json",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/example.sublime-macro",
+		"/C/Users/Asus/Desktop/s.sublime-macro",
+		"/C/Users/Asus/Desktop/snippet.php",
+		"/C/Users/Asus/Desktop/laravel-application/public/index.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/php.method.sublime.sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/method.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Asus/AppData/Roaming/Composer/vendor/cretueusebiu/valet-windows/bin/acrylic/AcrylicHosts.txt",
+		"/C/Users/Asus/AppData/Roaming/Composer/vendor/cretueusebiu/valet-windows/bin/acrylic/AcrylicConfiguration.ini",
+		"/C/Users/Asus/Desktop/hosts",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/passport/src/HasApiTokens.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/function-xx(-).sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/php_function_snippet.sublime-snippet",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/composer/autoload_real.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/autoload.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/C/Users/Asus/Desktop/laravel-application/bootstrap/app.php",
+		"/C/Users/Asus/Desktop/laravel-application/app/Console/Kernel.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Store.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Cache/RetrievesMultipleKeys.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/HtmlString.php",
+		"/C/Users/Asus/Desktop/laravel-application/config/auth.php",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/routes/channels.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter-phpcs/.sublimelinterrc",
+		"/C/Users/Asus/Desktop/learning-vue/node_modules/vue-router/src/history/base.js",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/Users/Asus/Desktop/go-pear.phar",
+		"/C/Users/Asus/Desktop/pear.php",
+		"/C/Users/Asus/Desktop/laravel-application/.env",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Controller.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/Asus/Desktop/learning-vue/.eslintrc.js",
+		"/C/Users/Asus/Desktop/learning-vue/src/components/Login.vue",
+		"/C/Users/Asus/Desktop/learning-vue/src/main.js",
+		"/C/Users/Asus/Desktop/learning-vue/index.html",
+		"/C/Users/Asus/Desktop/Express/server/index.js",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 162.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"100px",
+			"output_buf",
+			"XDE",
+			"zend]",
+			"zend",
+			"debug",
+			"incididunt",
+			"/",
+			"indent_guide",
+			"welcome",
+			"('",
+			"\"font_size\": 13,",
+			"Consolas",
+			"DONE",
+			"view",
+			"configurations",
+			"super",
+			"-\t",
+			"enablehttpmethod",
+			":",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PortofolioLandingPage.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mode",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"f/mode",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"env",
+				"vendor\\symfony\\http-kernel\\Tests\\Fixtures\\ExtensionNotValidBundle\\ExtensionNotValidBundle.php"
+			],
+			[
+				"laravel/passpo/has",
+				"vendor\\laravel\\passport\\src\\HasApiTokens.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Program Files\\Sublime Text 3"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

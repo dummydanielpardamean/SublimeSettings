@@ -1,0 +1,23 @@
+[
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["f6"], "command": "expand_fqcn" },
+    { "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["f5"], "command": "find_use" },
+    { "keys": ["f4"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+    { "keys": ["ctrl+n"], "command": "fm_create"},
+    { "keys": ["ctrl+alt+0"], "command": "quick_themes", "args": {"action": "inc"}},
+    { "keys": ["ctrl+alt+9"], "command": "quick_themes", "args": {"action": "dec"}},
+    { "keys": [":", "v", "s", "p"], "command": "create_pane", "args": {"direction": "right", "give_focus": true}},
+    { "keys": [":", "s", "p"], "command": "create_pane", "args": {"direction": "down", "give_focus": true}},
+    { "keys": [":", "b", "d"], "command": "destroy_pane", "args": {"direction": "self"} },
+    { "keys": [":", "s", "n"], "command": "convert_to_snake"},
+    { "keys": [":", "c", "m"], "command": "convert_to_camel"},
+    { "keys": [":", "p", "l"], "command": "convert_to_pascal"},
+    { "keys": [":", "d", "a"], "command": "convert_to_dash"},
+    { "keys": [":", "c", "b"], "command": "css_comb" },
+    {
+        "keys": ["ctrl+alt+o"], // or ["ctrl+alt+o"] for Windows/Linux
+        "command": "project_manager", "args": {"action": "new"}
+    }
+]

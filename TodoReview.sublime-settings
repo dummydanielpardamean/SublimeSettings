@@ -1,0 +1,29 @@
+{
+	"patterns": {
+		"BUG": "BUG[\\s]*?:[\\s]*(?P<bug>.*)$",
+		"DONE": "DONE[\\s]*?:[\\s]*(?P<done>.*)$",
+	    "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+	    "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+	    "CHANGED": "CHANGED[\\s]*?:[\\s]*(?P<changed>.*)$"
+	},
+	"exclude_folders": [
+		"*.idea*",
+		"*.git*",
+		"*node_modules*",
+		"*vendor*"
+	],
+	"exclude_files": [
+	    "*.sublime-workspace",
+	    "*.sublime-project"
+	],
+	"case_sensitive": true,
+	"render_include_folder": true,
+	"render_folder_depth": 1,
+	"patterns_weight": {
+	    "TODO": "a",
+		"BUG": "b",
+	    "NOTE": "x",
+	    "CHANGED": "y",
+		"DONE": "z",
+	}
+}

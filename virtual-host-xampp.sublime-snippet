@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<VirtualHost *:80>
+    ServerAdmin admin@develepor
+    DocumentRoot "$0"
+    ServerName develepor
+    ServerAlias develepor
+    ErrorLog logs/develepor.log
+    CustomLog logs/develepor.log combined
+    <Directory "$0">
+        Require all granted
+    </Directory>
+</VirtualHost>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vhost</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.conf</scope> -->
+    <description>Generate Virtual Host Setting</description>
+</snippet>

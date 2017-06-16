@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+class $0 extends ClassName implements Interface
+{
+    
+}
+]]></content>
+    <tabTrigger>classextendsimplements</tabTrigger>
+    <scope>source.php</scope>
+    <description>Class Scaffolding with extends and Implements</description>
+</snippet>

@@ -1,0 +1,92 @@
+{
+	"quick_themes":
+	[
+		{
+		},
+		{
+			"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+			"theme": "Boxy Yesterday.sublime-theme",
+			"theme_accent_cyan": true,
+			"theme_bar": true,
+			"theme_bar_logo_atomized": true,
+			"theme_bar_shadow_hidden": true,
+			"theme_button_rounded": true,
+			"theme_dirty_colored_always": true,
+			"theme_icons_materialized": true,
+			"theme_scrollbar_rounded": true,
+			"theme_sidebar_highlight_selected_text_only": true,
+			"theme_sidebar_highlight_text_only": true,
+			"theme_sidebar_indent_top_level_disabled": true,
+			"theme_size_md": true,
+			"theme_tab_highlight_text_only": true,
+			"theme_tab_selected_transparent": true,
+			"theme_tab_selected_underlined": true,
+			"theme_tab_size_l": true,
+			"theme_unified": true
+		},
+		{
+			"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+			"theme": "Boxy Tomorrow.sublime-theme",
+			"theme_accent_cyan": true,
+			"theme_bar": true,
+			"theme_bar_logo_atomized": true,
+			"theme_bar_shadow_hidden": true,
+			"theme_button_rounded": true,
+			"theme_dirty_colored_always": true,
+			"theme_icons_materialized": true,
+			"theme_scrollbar_rounded": true,
+			"theme_sidebar_highlight_selected_text_only": true,
+			"theme_sidebar_highlight_text_only": true,
+			"theme_sidebar_indent_top_level_disabled": true,
+			"theme_size_md": true,
+			"theme_tab_highlight_text_only": true,
+			"theme_tab_selected_transparent": true,
+			"theme_tab_selected_underlined": true,
+			"theme_tab_size_l": true,
+			"theme_unified": true
+		},
+		{
+			"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+			"theme": "Agila.sublime-theme",
+			"theme_agila_active_tab_entry_lightblue": true,
+			"theme_agila_compact_sidebar": true,
+			"theme_agila_modified_tab_marker_yellow": true,
+			"theme_agila_sidebar_light_icons": true,
+			"theme_agila_sidebar_mini": true,
+			"theme_agila_sidebar_selected_entry_lightblue": true
+		},
+		{
+			"color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
+			"theme": "Agila Dracula.sublime-theme",
+			"theme_agila_active_tab_entry_lightblue": true,
+			"theme_agila_compact_sidebar": true,
+			"theme_agila_modified_tab_marker_yellow": true,
+			"theme_agila_sidebar_light_icons": true,
+			"theme_agila_sidebar_mini": true,
+			"theme_agila_sidebar_selected_entry_lightblue": true
+		}
+	],
+	"quick_themes_defaults":
+	{
+		"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+		"theme": "Boxy Ocean.sublime-theme",
+		"theme_accent_cyan": true,
+		"theme_bar": true,
+		"theme_bar_logo_atomized": true,
+		"theme_bar_shadow_hidden": true,
+		"theme_button_rounded": true,
+		"theme_dirty_colored_always": true,
+		"theme_icons_materialized": true,
+		"theme_scrollbar_rounded": true,
+		"theme_sidebar_highlight_selected_text_only": true,
+		"theme_sidebar_highlight_text_only": true,
+		"theme_sidebar_indent_top_level_disabled": true,
+		"theme_size_md": true,
+		"theme_tab_highlight_text_only": true,
+		"theme_tab_selected_transparent": true,
+		"theme_tab_selected_underlined": true,
+		"theme_tab_size_l": true,
+		"theme_unified": true
+	},
+	"quick_themes_selection": 2
+}

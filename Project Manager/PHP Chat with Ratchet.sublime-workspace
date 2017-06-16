@@ -1,0 +1,848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"php\tPHP Tag"
+			],
+			[
+				"thi",
+				"this\t$this->"
+			],
+			[
+				"req",
+				"req\trequire …"
+			],
+			[
+				"set",
+				"setAsGlobal〔function〕"
+			],
+			[
+				"se",
+				"setEventDispatcher〔function〕"
+			],
+			[
+				"date_defaul",
+				"date_default_timezone_set〔function〕"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"con",
+				"con\tfunction __construct"
+			],
+			[
+				"clas",
+				"class\tGenerate Class Scaffolding"
+			],
+			[
+				"Mess",
+				"MessagesList"
+			],
+			[
+				"conn",
+				"connection〔variable〕"
+			],
+			[
+				"fun",
+				"fun\tInsert function snippet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/while(-).sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "pcep",
+		"selected_items":
+		[
+			[
+				"pcep",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcdp",
+				"Package Control: Disable Package"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"packageext",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packex",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"upload",
+				"Sync Settings: Upload"
+			],
+			[
+				"ed",
+				"Project: Edit Project"
+			],
+			[
+				"edit projec",
+				"Project: Edit Project"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"project add new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project remove",
+				"Project Manager: Remove Project"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"project new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"add projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"remove proje",
+				"Project Manager: Remove Project"
+			],
+			[
+				"autoprefix",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"comb",
+				"Run CSScomb"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"project add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"projectmana rem",
+				"Project Manager: Remove Project"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"markdown",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"vinta",
+				"Vintageous: Open .vintageousrc"
+			],
+			[
+				"pccip",
+				"Package Control: Install Package"
+			],
+			[
+				"pcipr",
+				"Package Control: Discover Packages"
+			],
+			[
+				"incre",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":q",
+				"Git: Quick Add"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"prcp",
+				"Package Control: Remove Package"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"find k",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"qtn",
+				"QuickThemes: next"
+			],
+			[
+				"qtp",
+				"QuickThemes: previous"
+			],
+			[
+				"qt",
+				"QuickThemes: next"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"gutter",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"cip",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitGutter: Support Info"
+			],
+			[
+				"packagereso",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package resource ",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"PHPUnit: ",
+				"PHPUnit: Run"
+			],
+			[
+				"phpuni",
+				"PHPUnit: Run"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"picp",
+				"Package Control: Install Package"
+			],
+			[
+				"upla",
+				"Sync Settings: Upload"
+			],
+			[
+				"markdownlive",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"s",
+				"Sync Settings: Upload"
+			]
+		],
+		"width": 413.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"view.substr(view.line(view.sel()[0]))",
+			"self.view.substr(self.view.line(self.view.sel()[0]))",
+			"view.run_command('example')",
+			"view.substr(view.line(view.sel()[0]))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/code/labs/PHP Chat with Ratchet/tes.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/class-{-}.sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/ClassWithExtend.sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/ClassWithExtendsImplements.sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/Constructor.sublime-snippet",
+		"/C/code/labs/PHP Chat with Ratchet/src/Here.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/phpEmbeddedOrHTML.sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/php.sublime-snippet",
+		"/C/code/labs/PHP Chat with Ratchet/chat.php",
+		"/C/code/labs/PHP Chat with Ratchet/src/Core.php",
+		"/C/code/labs/PHP Chat with Ratchet/js/main.js",
+		"/C/code/labs/PHP Chat with Ratchet/ChatHistory.php",
+		"/C/code/labs/PHP Chat with Ratchet/configurations/Eloquent.php",
+		"/C/code/labs/PHP Chat with Ratchet/composer.json",
+		"/C/code/labs/PHP Chat with Ratchet/src/Entities/Message.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/function-xx(-).sublime-snippet",
+		"/C/Users/Asus/Desktop/test.php",
+		"/C/code/labs/PHP Chat with Ratchet/vendor/composer/autoload_real.php",
+		"/C/code/labs/PHP Chat with Ratchet/vendor/composer/ClassLoader.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/QuickThemes.sublime-settings",
+		"/F/Videos/Programming/AmitavRoy Channel/Working on features/playlist.pls",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/php.method.sublime.sublime-snippet",
+		"/C/code/labs/PHP Chat with Ratchet/server.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager/PHP Chat with Ratchet.sublime-project",
+		"/C/Users/Asus/Downloads/Codeigniter Blog App/playlist.pls",
+		"/C/Users/Asus/Downloads/Working on features/playlist.pls",
+		"/C/Users/Asus/Downloads/Learning Vuejs/playlist.pls",
+		"/C/Users/Asus/Downloads/Node.js & Passport Login System/playlist.pls",
+		"/C/Users/Asus/code/labs/PHP Chat with Ratchet/.gitignore",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/Asus/code/labs/PHP Chat with Ratchet/index.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/Asus/code/labs/PHP Chat with Ratchet/js/main.js",
+		"/C/Users/Asus/code/labs/PHP Chat with Ratchet/src/Core.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/indexx.php",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/s.php",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/server.php",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/index.php",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/src/Core.php",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/composer.json",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/css/bootstrap.min.css",
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/css",
+		"/C/Users/Asus/code/PortofolioLandingPage/src/components/Hello.vue",
+		"/C/Users/Asus/code/PortofolioLandingPage/src/App.vue",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/C/Users/Asus/code/sample/src/App.vue",
+		"/C/Users/Asus/Desktop/learning-vue/src/App.vue",
+		"/C/Users/Asus/Desktop/learning-vue/src/components/Hello.vue",
+		"/C/Users/Asus/code/PortofolioLandingPage/src/main.js",
+		"/C/Users/Asus/code/PortofolioLandingPage/index.html",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/Users/Asus/Desktop/style.css",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/ChangeQuotes/ChangeQuotes.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/ChangeQuotes.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/php-snippets/README.md",
+		"/C/Users/Asus/Desktop/laravel-application/app/User.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/Asus/IdeaProjects/GettingStartedWithJavaFX/src/sample/AlertBox.java",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/QuickThemes.sublime-settings",
+		"/C/Users/Asus/Desktop/Express/server/config.js",
+		"/C/Users/Asus/Desktop/Express/node_modules/express/index.js",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/FindKeyConflicts/FindKeyConflicts.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/C/Users/Asus/.sync-settings.log",
+		"/C/xampp/php/xdebug.log",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/htdocs.sublime-project",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/php/www/index.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/.vintageousrc",
+		"/C/Users/Asus/Desktop/laravel-application/app/lorem",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Kernel.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/bootstrap/autoload.php",
+		"/F/Videos/Programming/BradTraversy Channel/Python Flask From Scratch/playlist.pls",
+		"/C/Users/Asus/Desktop/interviews-master/Company/Facebook/3Sum.java",
+		"/C/Users/Asus/AppData/Roaming/mpv/mpv.conf",
+		"/C/Users/Asus/Pictures/Wallpapers/anders-jilden-108186.jpg",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/Asus/Desktop/style.css.txt",
+		"/C/Users/Asus/Desktop/laravel-application/public/js/app.js",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/routes/web.php",
+		"/C/Users/Asus/Desktop/laravel-application/routes/console.php",
+		"/C/Users/Asus/Desktop/laravel-application/database/factories/ModelFactory.php",
+		"/C/Users/Asus/Desktop/learning-vue/.babelrc",
+		"/C/Users/Asus/Desktop/learning-vue/src/router/index.js",
+		"/C/Users/Asus/Desktop/learning-vue/dist/index.html",
+		"/C/Users/Asus/Desktop/learning-vue/dist/static/css/app.0ee85ddaf7586d9cba4e09bd4d8d9bbf.css",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/TodoTagManagement.py",
+		"/C/Users/Asus/Desktop/laravel-application/storage/logs/laravel.log",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/dian/tes.txt",
+		"/C/Users/Asus/Desktop/laravel-application/app/joko/readme.txt",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Asus/Desktop/laravel-application/laravel-application.sublime-project",
+		"/C/Users/Asus/Desktop/bootstrap.css",
+		"/C/Users/Asus/Desktop/list.todo",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionNotValidBundle/ExtensionNotValidBundle.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/sidebar-adjustment.sublime-macro",
+		"/C/Users/Asus/Desktop/laravel-application/composer.json",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/example.sublime-macro",
+		"/C/Users/Asus/Desktop/s.sublime-macro",
+		"/C/Users/Asus/Desktop/snippet.php",
+		"/C/Users/Asus/Desktop/laravel-application/public/index.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/method.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Asus/AppData/Roaming/Composer/vendor/cretueusebiu/valet-windows/bin/acrylic/AcrylicHosts.txt",
+		"/C/Users/Asus/AppData/Roaming/Composer/vendor/cretueusebiu/valet-windows/bin/acrylic/AcrylicConfiguration.ini",
+		"/C/Users/Asus/Desktop/hosts"
+	],
+	"find":
+	{
+		"height": 62.0
+	},
+	"find_in_files":
+	{
+		"height": 162.0,
+		"where_history":
+		[
+			"C:\\Users\\Asus\\AppData\\Roaming\\Sublime Text 3\\Packages\\PHP\\Snippets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<tabTrigger>php</tabTrigger>",
+			"<tabTrigger>this</tabTrigger>",
+			"php",
+			"xdebug",
+			"\\",
+			"/",
+			"C:/Users/Asus/Downloads/Working on features/",
+			"C:/Users/Asus/Downloads/Learning Vuejs/",
+			"C:/Users/Asus/Downloads/Node.js & Passport Login System/",
+			"guuter",
+			"textarea",
+			"100px",
+			"output_buf",
+			"XDE",
+			"zend]",
+			"zend",
+			"debug",
+			"incididunt",
+			"/",
+			"indent_guide",
+			"welcome",
+			"('",
+			"\"font_size\": 13,",
+			"Consolas",
+			"DONE",
+			"view",
+			"configurations",
+			"super",
+			"-\t",
+			"enablehttpmethod",
+			":",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/while(-).sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 29
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-init":
+	{
+		"height": 158.0
+	},
+	"pinned_build_system": "",
+	"project": "PHP Chat with Ratchet.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"mode",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"f/mode",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"env",
+				"vendor\\symfony\\http-kernel\\Tests\\Fixtures\\ExtensionNotValidBundle\\ExtensionNotValidBundle.php"
+			],
+			[
+				"laravel/passpo/has",
+				"vendor\\laravel\\passport\\src\\HasApiTokens.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": "c",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Program Files\\Sublime Text 3"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
