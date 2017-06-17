@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[require('./vendor/autoload.php');
+$0]]></content>
+    <tabTrigger>composerrequire</tabTrigger>
+    <scope>source.php</scope>
+    <description>Require composer autoload</description>
+</snippet>
