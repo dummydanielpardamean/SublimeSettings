@@ -517,6 +517,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 238.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
