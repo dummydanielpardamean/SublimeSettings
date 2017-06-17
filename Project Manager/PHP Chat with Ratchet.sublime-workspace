@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"name",
+				"namespace〔keyword〕"
+			],
+			[
+				"class",
+				"class\tClass Scaffolding"
+			],
+			[
 				"php",
 				"php\tPHP Tag"
 			],
@@ -56,12 +64,12 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/while(-).sublime-snippet",
+			"file": "/C/code/labs/PHP Chat with Ratchet/tes.php",
 			"settings":
 			{
-				"buffer_size": 165,
+				"buffer_size": 195,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -72,10 +80,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 357.0,
-		"last_filter": "pcep",
+		"height": 139.0,
+		"last_filter": "upload",
 		"selected_items":
 		[
+			[
+				"upload",
+				"Sync Settings: Upload"
+			],
+			[
+				"upla",
+				"Sync Settings: Upload"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
 			[
 				"pcep",
 				"Package Control: Enable Package"
@@ -109,20 +133,12 @@
 				"Package Control: Install Package"
 			],
 			[
-				"pcrp",
-				"Package Control: Remove Package"
-			],
-			[
 				"Package Control: lis",
 				"Package Control: List Packages"
 			],
 			[
 				"packagere",
 				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"upload",
-				"Sync Settings: Upload"
 			],
 			[
 				"ed",
@@ -143,10 +159,6 @@
 			[
 				"project remove",
 				"Project Manager: Remove Project"
-			],
-			[
-				"p",
-				"Package Control: Enable Package"
 			],
 			[
 				"project new",
@@ -333,10 +345,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"upla",
-				"Sync Settings: Upload"
-			],
-			[
 				"markdownlive",
 				"MarkdownLivePreview: Edit Current File"
 			],
@@ -369,7 +377,7 @@
 				"Sync Settings: Upload"
 			]
 		],
-		"width": 413.0
+		"width": 462.0
 	},
 	"console":
 	{
@@ -394,10 +402,20 @@
 	},
 	"expanded_folders":
 	[
+		"/C/code/labs/PHP Chat with Ratchet",
+		"/C/code/labs/PHP Chat with Ratchet/src"
 	],
 	"file_history":
 	[
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
 		"/C/code/labs/PHP Chat with Ratchet/tes.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP/Snippets/function-xx(-).sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/php.method.sublime.sublime-snippet",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/QuickThemes.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/while(-).sublime-snippet",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/class-{-}.sublime-snippet",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/ClassWithExtend.sublime-snippet",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/ClassWithExtendsImplements.sublime-snippet",
@@ -419,7 +437,6 @@
 		"/C/code/labs/PHP Chat with Ratchet/vendor/composer/ClassLoader.php",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/QuickThemes.sublime-settings",
 		"/F/Videos/Programming/AmitavRoy Channel/Working on features/playlist.pls",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/php.method.sublime.sublime-snippet",
 		"/C/code/labs/PHP Chat with Ratchet/server.php",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager/PHP Chat with Ratchet.sublime-project",
 		"/C/Users/Asus/Downloads/Codeigniter Blog App/playlist.pls",
@@ -466,13 +483,11 @@
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
 		"/C/Users/Asus/IdeaProjects/GettingStartedWithJavaFX/src/sample/AlertBox.java",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/QuickThemes.sublime-settings",
 		"/C/Users/Asus/Desktop/Express/server/config.js",
 		"/C/Users/Asus/Desktop/Express/node_modules/express/index.js",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/FindKeyConflicts/FindKeyConflicts.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
 		"/C/Users/Asus/.sync-settings.log",
 		"/C/xampp/php/xdebug.log",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
@@ -490,7 +505,6 @@
 		"/C/Users/Asus/Pictures/Wallpapers/anders-jilden-108186.jpg",
 		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/RegisterController.php",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
 		"/C/Users/Asus/Desktop/style.css.txt",
 		"/C/Users/Asus/Desktop/laravel-application/public/js/app.js",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
@@ -520,11 +534,7 @@
 		"/C/Users/Asus/Desktop/s.sublime-macro",
 		"/C/Users/Asus/Desktop/snippet.php",
 		"/C/Users/Asus/Desktop/laravel-application/public/index.php",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/method.php",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/Users/Asus/AppData/Roaming/Composer/vendor/cretueusebiu/valet-windows/bin/acrylic/AcrylicHosts.txt",
-		"/C/Users/Asus/AppData/Roaming/Composer/vendor/cretueusebiu/valet-windows/bin/acrylic/AcrylicConfiguration.ini",
-		"/C/Users/Asus/Desktop/hosts"
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/method.php"
 	],
 	"find":
 	{
@@ -543,6 +553,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",",
+			"\"",
+			"<?php\n\nnamespace Carbon;\n\nclass Name\n{\n    public function __construct()\n    {\n        while (true) {\n            echo \"true\";\n        }\n    }\n}",
+			"<?php\n\nnamespace Carbon;\n\nclass Name\n{\n    public function __construct()\n    {\n        while (true) {\n            echo \"true\";\n        }\n    }\n}\n",
 			"<tabTrigger>php</tabTrigger>",
 			"<tabTrigger>this</tabTrigger>",
 			"php",
@@ -597,35 +611,50 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/while(-).sublime-snippet",
+					"file": "/C/code/labs/PHP Chat with Ratchet/tes.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 165,
+						"buffer_size": 195,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								43,
-								43
+								98,
+								98
 							]
 						],
 						"settings":
 						{
-							"auto_complete": true,
+							"auto_complete": false,
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
+									"1":
+									[
+										135,
+										136
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										98,
+										99
+									]
 								},
 								"unmatched":
 								{
@@ -633,16 +662,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -653,49 +692,42 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
-							"syntax": "Packages/XML/XML.sublime-syntax",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
 							"vintage":
 							{
-								"_vintageous_glue_until_normal_mode": true,
+								"_vintageous_glue_until_normal_mode": false,
 								"action": null,
 								"action_count": "",
-								"mode": "mode_insert",
+								"mode": "mode_normal",
 								"motion": null,
 								"motion_count": "",
 								"must_capture_register_name": false,
@@ -703,7 +735,7 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 29
+								"xpos": 21
 							}
 						},
 						"translation.x": 0.0,
@@ -713,11 +745,6 @@
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -738,18 +765,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -825,11 +845,11 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 		"_vintageous_last_char_search_command": "vi_t",
-		"_vintageous_last_character_search": "c",
+		"_vintageous_last_character_search": "i",
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
