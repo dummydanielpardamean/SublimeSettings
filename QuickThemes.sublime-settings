@@ -64,6 +64,10 @@
 			"theme_agila_sidebar_light_icons": true,
 			"theme_agila_sidebar_mini": true,
 			"theme_agila_sidebar_selected_entry_lightblue": true
+		},
+		{
+			"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+			"theme": "One Dark.sublime-theme"
 		}
 	],
 	"quick_themes_defaults":
@@ -88,5 +92,5 @@
 		"theme_tab_size_l": true,
 		"theme_unified": true
 	},
-	"quick_themes_selection": 1
+	"quick_themes_selection": 5
 }
