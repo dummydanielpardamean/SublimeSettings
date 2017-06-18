@@ -23,6 +23,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"JavaScript & NodeJS Snippets",
 		"Laravel 5 Artisan",
 		"Vintage"
 	],
