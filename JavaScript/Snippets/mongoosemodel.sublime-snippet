@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+let schema = new Schema({
+
+});
+
+let $0 = mongoose.model('$0', scema);
+
+export default $0;
+]]></content>
+    <tabTrigger>mongoosemodel</tabTrigger>
+    <scope>source.js</scope>
+    <description>Mongoose model scaffolding</description>
+</snippet>
