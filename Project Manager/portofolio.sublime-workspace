@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"fw",
+				"fw\tfont-weight"
+			],
+			[
+				"in",
+				"inline〔value〕"
+			],
+			[
+				"max",
+				"max-width: 〔property〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inli",
+				"inline-block〔value〕"
+			],
+			[
+				"font",
+				"font-family: 〔property〕"
+			],
+			[
+				"tex",
+				"text-decoration: 〔property〕"
+			],
+			[
+				"block",
+				"inline-block〔value〕"
+			],
+			[
 				"fun",
 				"fun\tInsert function snippet"
 			]
@@ -11,6 +43,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+			"settings":
+			{
+				"buffer_size": 3380,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -19,10 +59,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 117.0,
-		"last_filter": "edit proj",
+		"height": 163.0,
+		"last_filter": "project new",
 		"selected_items":
 		[
+			[
+				"project new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project remo",
+				"Project Manager: Remove Project"
+			],
 			[
 				"edit proj",
 				"Project: Edit Project"
@@ -268,7 +316,7 @@
 				"Sync Settings: Upload"
 			]
 		],
-		"width": 296.0
+		"width": 428.0
 	},
 	"console":
 	{
@@ -293,10 +341,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/code/PortofolioLandingPage"
+		"/C/code/portofolio"
 	],
 	"file_history":
 	[
+		"/C/code/portofolio/src/App.vue",
+		"/C/code/portofolio/src/components/Skills.vue",
+		"/C/code/portofolio/src/components/Menu.vue",
+		"/C/code/portofolio/src/components/Me.vue",
+		"/C/code/portofolio/src/assets/profile.jpg",
+		"/C/code/portofolio/src/router/index.js",
+		"/C/code/portofolio/src/components/Contacts.vue",
+		"/C/code/portofolio/src/components/Hello.vue",
+		"/C/code/portofolio/src/components/Me",
+		"/C/code/portofolio/package.json",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager/PortofolioLandingPage.sublime-project",
 		"/C/Users/Asus/code/PortofolioLandingPage/src/components/Hello.vue",
 		"/C/Users/Asus/code/PortofolioLandingPage/src/App.vue",
@@ -414,17 +472,7 @@
 		"/C/Users/Asus/Desktop/pear.php",
 		"/C/Users/Asus/Desktop/laravel-application/.env",
 		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/ResetPasswordController.php",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
-		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Controller.php",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-		"/C/Users/Asus/Desktop/learning-vue/.eslintrc.js",
-		"/C/Users/Asus/Desktop/learning-vue/src/components/Login.vue",
-		"/C/Users/Asus/Desktop/learning-vue/src/main.js",
-		"/C/Users/Asus/Desktop/learning-vue/index.html",
-		"/C/Users/Asus/Desktop/Express/server/index.js",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings"
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings"
 	],
 	"find":
 	{
@@ -442,6 +490,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Me",
+			"Skills",
+			"Me",
+			"Skills",
+			"Me",
+			"main-",
+			"main",
+			"-container",
+			"000",
 			"\\",
 			"100px",
 			"output_buf",
@@ -481,8 +538,144 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2278,
+								2278
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".conf",
+								"current_syntax": "ApacheConf.tmLanguage/ApacheConf",
+								"enabled": false,
+								"last_updated": 1497956684.65
+							},
+							"syntax": "Packages/ApacheConf.tmLanguage/ApacheConf.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 13
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 2139.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -517,16 +710,12 @@
 		]
 	},
 	"menu_visible": true,
-	"output.GitSavvy":
-	{
-		"height": 238.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "PortofolioLandingPage.sublime-project",
+	"project": "portofolio.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -585,7 +774,7 @@
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "C:\\Program Files\\Sublime Text 3"
+			"_cmdline_cd": "C:\\xampp\\apache\\conf\\extra"
 		}
 	},
 	"show_minimap": true,
