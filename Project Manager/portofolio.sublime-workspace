@@ -44,11 +44,11 @@
 	"buffers":
 	[
 		{
-			"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+			"file": "/C/code/portofolio/.eslintrc.js",
 			"settings":
 			{
-				"buffer_size": 3380,
-				"line_ending": "Windows"
+				"buffer_size": 642,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -345,6 +345,7 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
 		"/C/code/portofolio/src/App.vue",
 		"/C/code/portofolio/src/components/Skills.vue",
 		"/C/code/portofolio/src/components/Menu.vue",
@@ -471,8 +472,7 @@
 		"/C/Users/Asus/Desktop/go-pear.phar",
 		"/C/Users/Asus/Desktop/pear.php",
 		"/C/Users/Asus/Desktop/laravel-application/.env",
-		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/ResetPasswordController.php",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings"
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/ResetPasswordController.php"
 	],
 	"find":
 	{
@@ -543,19 +543,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
-					"semi_transient": false,
+					"file": "/C/code/portofolio/.eslintrc.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 3380,
+						"buffer_size": 642,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2278,
-								2278
+								0,
+								0
 							]
 						],
 						"settings":
@@ -578,36 +578,51 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -617,25 +632,10 @@
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_angle_content"
 							],
 							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 							"color_helper.file_palette":
 							[
 							],
@@ -644,19 +644,19 @@
 							},
 							"color_helper.scan":
 							{
-								"current_ext": ".conf",
-								"current_syntax": "ApacheConf.tmLanguage/ApacheConf",
+								"current_ext": ".js",
+								"current_syntax": "zzz A File Icon zzz/aliases/JavaScript (ESLint)",
 								"enabled": false,
-								"last_updated": 1497956684.65
+								"last_updated": 1497966984.16
 							},
-							"syntax": "Packages/ApacheConf.tmLanguage/ApacheConf.tmLanguage",
-							"tab_size": 4,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (ESLint).sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
 							"vintage":
 							{
-								"_vintageous_glue_until_normal_mode": false,
-								"_vintageous_non_interactive": false,
-								"_vintageous_processing_notation": false,
 								"action": null,
 								"action_count": "",
 								"mode": "mode_normal",
@@ -666,11 +666,11 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 13
+								"xpos": 0
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 2139.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
