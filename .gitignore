@@ -18,3 +18,5 @@ Package Control.user-ca-bundle
 Thumbs.db
 .log
 recent.json
+Xdebug.breakpoints
+Xdebug.log

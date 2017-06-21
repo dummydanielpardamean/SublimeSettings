@@ -206,7 +206,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 357.0,
+		"height": 353.0,
 		"last_filter": "CLOSE",
 		"selected_items":
 		[
@@ -551,7 +551,7 @@
 				"Sync Settings: Upload"
 			]
 		],
-		"width": 462.0
+		"width": 428.0
 	},
 	"console":
 	{
@@ -582,8 +582,7 @@
 		"/C/Users/Asus/Desktop/laravel-application/resources",
 		"/C/Users/Asus/Desktop/laravel-application/resources/views",
 		"/C/Users/Asus/Desktop/laravel-application/routes",
-		"/C/Users/Asus/Desktop/laravel-application/vendor",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation"
+		"/C/Users/Asus/Desktop/laravel-application/vendor"
 	],
 	"file_history":
 	[
@@ -899,9 +898,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -1052,26 +1048,23 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
 								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
 									"rgba",
 									"hex",
-									"webcolors"
+									"rgb",
+									"webcolors",
+									"hsl",
+									"hex_compressed",
+									"hsla"
 								],
 								"compress_hex_output": true,
 								"current_ext": ".php",
 								"current_syntax": "PHP/PHP",
 								"enabled": true,
-								"last_updated": 1497961307.9,
+								"last_updated": 1498048380.04,
 								"scan_completion_scopes":
 								[
 								],
@@ -1102,7 +1095,7 @@
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 2135.0,
+						"translation.y": 1365.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1228,9 +1221,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -1403,9 +1393,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -1516,64 +1503,64 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
 							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
 							"color_helper.file_palette":
 							[
 							],
@@ -1584,19 +1571,19 @@
 							{
 								"allowed_colors":
 								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
 									"rgba",
+									"rgb",
+									"webcolors",
+									"hsla",
+									"hsl",
 									"hex",
-									"webcolors"
+									"hex_compressed"
 								],
 								"compress_hex_output": true,
 								"current_ext": ".php",
 								"current_syntax": "PHP/PHP",
 								"enabled": true,
-								"last_updated": 1497961307.9,
+								"last_updated": 1498052620.87,
 								"scan_completion_scopes":
 								[
 								],
@@ -1617,6 +1604,8 @@
 							"vintage":
 							{
 								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
 								"action": null,
 								"action_count": "",
 								"mode": "mode_normal",
@@ -1631,7 +1620,7 @@
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 4891.0,
+						"translation.y": 2406.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1750,9 +1739,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -1905,9 +1891,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -2060,9 +2043,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -2230,9 +2210,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -2400,9 +2377,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -2561,9 +2535,6 @@
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.preview_meta":
-							{
-							},
 							"color_helper.scan":
 							{
 								"allowed_colors":
@@ -2767,7 +2738,7 @@
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "C:\\Users\\Asus\\Desktop\\laravel-application\\vendor\\laravel\\framework\\src\\Illuminate\\Container"
+			"_cmdline_cd": "C:\\Users\\Asus\\Desktop\\laravel-application\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http"
 		}
 	},
 	"show_minimap": true,

@@ -14,6 +14,7 @@
 		"Boxy Theme",
 		"BracketHighlighter",
 		"Case Conversion",
+		"Chain of Command",
 		"ChangeQuotes",
 		"ColorHelper",
 		"CSScomb",
@@ -30,7 +31,6 @@
 		"Icon Fonts",
 		"Increment Selection",
 		"JavaScript & NodeJS Snippets",
-		"Keymaps",
 		"Laravel 5 Artisan",
 		"Laravel Blade Highlighter",
 		"LaravelDumpMan",
@@ -54,6 +54,7 @@
 		"TypeScript",
 		"Vintageous",
 		"Vue Syntax Highlight",
-		"Vuejs Complete Package"
+		"Vuejs Complete Package",
+		"Xdebug Client"
 	]
 }
