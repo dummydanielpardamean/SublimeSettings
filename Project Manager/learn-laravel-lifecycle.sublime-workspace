@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"con\tfunction __construct"
+			],
+			[
 				"virtual",
 				"virtual"
 			],
@@ -88,10 +92,6 @@
 				"this"
 			],
 			[
-				"con",
-				"con\tfunction __construct"
-			],
-			[
 				"clas",
 				"class\tGenerate Class Scaffolding"
 			],
@@ -108,92 +108,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/bootstrap/app.php",
+			"file": "/C/Users/Asus/Desktop/laravel-application/app/User.php",
 			"settings":
 			{
-				"buffer_size": 1601,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/public/index.php",
-			"settings":
-			{
-				"buffer_size": 1783,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
-			"settings":
-			{
-				"buffer_size": 31365,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Container/Container.php",
-			"settings":
-			{
-				"buffer_size": 32678,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
-			"settings":
-			{
-				"buffer_size": 8854,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-			"settings":
-			{
-				"buffer_size": 28417,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
-			"settings":
-			{
-				"buffer_size": 2459,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-			"settings":
-			{
-				"buffer_size": 4868,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
-			"settings":
-			{
-				"buffer_size": 5093,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Request.php",
-			"settings":
-			{
-				"buffer_size": 12879,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
-			"settings":
-			{
-				"buffer_size": 13101,
+				"buffer_size": 556,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -207,9 +125,65 @@
 	"command_palette":
 	{
 		"height": 353.0,
-		"last_filter": "CLOSE",
+		"last_filter": "close",
 		"selected_items":
 		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"pcdp",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcep",
+				"Package Control: Enable Package"
+			],
+			[
+				"packop",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packex",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"packageex",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"project",
+				"Project Manager: Edit Project"
+			],
+			[
+				"manage",
+				"Package Bundler: Manage Bundle"
+			],
+			[
+				"create bund",
+				"Package Bundler: Create Bundle"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"file close",
+				"File: Close All"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
 			[
 				"CLOSE",
 				"Project: Close"
@@ -223,19 +197,7 @@
 				"Project Manager: Add New Project"
 			],
 			[
-				"project",
-				"Project: Add Folder"
-			],
-			[
-				"pcip",
-				"Package Control: Install Package"
-			],
-			[
 				"pext",
-				"PackageResourceViewer: Extract Package"
-			],
-			[
-				"packageex",
 				"PackageResourceViewer: Extract Package"
 			],
 			[
@@ -243,16 +205,8 @@
 				"PackageResourceViewer: Open Resource"
 			],
 			[
-				"pcdp",
-				"Package Control: Disable Package"
-			],
-			[
 				"pace",
 				"PackageResourceViewer: Extract Package"
-			],
-			[
-				"pcrp",
-				"Package Control: Remove Package"
 			],
 			[
 				"pclp",
@@ -273,10 +227,6 @@
 			[
 				"pac",
 				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"pcep",
-				"Package Control: Enable Package"
 			],
 			[
 				"afi",
@@ -305,14 +255,6 @@
 			[
 				"packageext",
 				"PackageResourceViewer: Extract Package"
-			],
-			[
-				"packex",
-				"PackageResourceViewer: Extract Package"
-			],
-			[
-				"pack",
-				"PackageResourceViewer: Open Resource"
 			],
 			[
 				"Package Control: lis",
@@ -558,6 +500,9 @@
 		"height": 322.0,
 		"history":
 		[
+			"view.run_command(\"move\", {\"words\": \"\\{\"})",
+			"view.run_command(\"move\", {\"words\": \"{\"})",
+			"view.run_command(\"goto_line\", {\"line\": 7})",
 			"view.substr(view.line(view.sel()[0]))",
 			"self.view.substr(self.view.line(self.view.sel()[0]))",
 			"view.run_command('example')",
@@ -576,34 +521,58 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Asus/Desktop/laravel-application",
-		"/C/Users/Asus/Desktop/laravel-application/bootstrap",
-		"/C/Users/Asus/Desktop/laravel-application/public",
-		"/C/Users/Asus/Desktop/laravel-application/resources",
-		"/C/Users/Asus/Desktop/laravel-application/resources/views",
-		"/C/Users/Asus/Desktop/laravel-application/routes",
-		"/C/Users/Asus/Desktop/laravel-application/vendor"
+		"/C/Users/Asus/Desktop/laravel-application/app"
 	],
 	"file_history":
 	[
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Completion Rules.tmPreferences",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Comments.tmPreferences",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/syntax_test_php.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/codecomplice.version",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Symbol List.tmPreferences",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/PHP.sublime-syntax",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Indetation Rules Annex.tmPreferences",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Indentation Rules Annex.tmPreferences",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Indentation Rules.tmPreferences",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/PHP Source.sublime-syntax",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/PHP.sublime-competions.json",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/PHP.sublime-completions",
+		"/C/Users/Asus/Desktop/laravel-application/app/User.php",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager/learn-laravel-lifecycle.sublime-project",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Package Bundler.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PackageSync.sublime-settings",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PackageSync/PackageSync.sublime-settings",
+		"/C/Users/Asus/Desktop/laravel-application/config/app.php",
+		"/C/Users/Asus/Desktop/laravel-application/config/broadcasting.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
+		"/C/Users/Asus/Desktop/laravel-application/bootstrap/app.php",
+		"/C/Users/Asus/Desktop/laravel-application/public/index.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/composer/ClassLoader.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation/FileBag.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation/ParameterBag.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithFlashData.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation/Request.php",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/fzaninotto/faker/src/Faker/Provider/Base.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation/Response.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation/Request.php",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Request.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Console/Application.php",
 		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
 		"/C/Users/Asus/Desktop/laravel-application/routes/web.php",
 		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Container/Container.php",
-		"/C/Users/Asus/Desktop/laravel-application/public/index.php",
-		"/C/Users/Asus/Desktop/laravel-application/bootstrap/app.php",
-		"/C/Users/Asus/Desktop/laravel-application/app/User.php",
 		"/C/Users/Asus/Desktop/learning-vue/.postcssrc.js",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/QuickThemes.sublime-settings",
@@ -639,7 +608,6 @@
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP/Snippets/php.method.sublime.sublime-snippet",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/PHP/Snippets/function-xx(-).sublime-snippet",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/php.method.sublime.sublime-snippet",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/QuickThemes/QuickThemes.sublime-settings",
@@ -684,36 +652,7 @@
 		"/C/Users/Asus/code/labs/PHP Chat with Rachet/css",
 		"/C/Users/Asus/code/PortofolioLandingPage/src/components/Hello.vue",
 		"/C/Users/Asus/code/PortofolioLandingPage/src/App.vue",
-		"/C/Users/Asus/code/sample/src/App.vue",
-		"/C/Users/Asus/Desktop/learning-vue/src/components/Hello.vue",
-		"/C/Users/Asus/code/PortofolioLandingPage/src/main.js",
-		"/C/Users/Asus/code/PortofolioLandingPage/index.html",
-		"/C/Users/Asus/Desktop/style.css",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/ChangeQuotes/ChangeQuotes.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/ChangeQuotes.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/php-snippets/README.md",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
-		"/C/Users/Asus/IdeaProjects/GettingStartedWithJavaFX/src/sample/AlertBox.java",
-		"/C/Users/Asus/Desktop/Express/server/config.js",
-		"/C/Users/Asus/Desktop/Express/node_modules/express/index.js",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/FindKeyConflicts/FindKeyConflicts.sublime-settings",
-		"/C/Users/Asus/.sync-settings.log",
-		"/C/xampp/php/xdebug.log",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
-		"/C/xampp/htdocs/htdocs.sublime-project",
-		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
-		"/C/xampp/php/www/index.php"
+		"/C/Users/Asus/code/sample/src/App.vue"
 	],
 	"find":
 	{
@@ -732,6 +671,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\",
 			"$bootstrappers",
 			"dd(",
 			"EventServiceProvider",
@@ -797,331 +737,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Asus/Desktop/laravel-application/bootstrap/app.php",
+					"file": "/C/Users/Asus/Desktop/laravel-application/app/User.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1601,
+						"buffer_size": 556,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1541,
-								1541
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 27
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 1130.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Asus/Desktop/laravel-application/public/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1783,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1735,
-								1735
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"rgba",
-									"hex",
-									"rgb",
-									"webcolors",
-									"hsl",
-									"hex_compressed",
-									"hsla"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1498048380.04,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"history_list_is_closing": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 13
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 1365.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31365,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3684,
-								3684
+								224,
+								224
 							]
 						],
 						"settings":
@@ -1134,180 +767,8 @@
 								{
 									"1":
 									[
-										3685,
-										3686
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										3684,
-										3685
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"history_list_is_closing": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"_vintageous_glue_until_normal_mode": false,
-								"_vintageous_non_interactive": false,
-								"_vintageous_processing_notation": false,
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"normal_insert_count": "1",
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 43
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 5677.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Container/Container.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32678,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16244,
-								16244
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										16660,
-										16661
+										554,
+										555
 									]
 								},
 								"icon":
@@ -1322,8 +783,8 @@
 								{
 									"1":
 									[
-										14405,
-										14406
+										201,
+										202
 									]
 								},
 								"unmatched":
@@ -1332,232 +793,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"_vintageous_glue_until_normal_mode": false,
-								"_vintageous_non_interactive": false,
-								"_vintageous_processing_notation": false,
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 0
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 21147.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8854,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3984,
-								3984
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										4272,
-										4273
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										3835,
-										3836
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"color_helper.box_height": 15,
 							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
@@ -1571,19 +861,19 @@
 							{
 								"allowed_colors":
 								[
-									"rgba",
-									"rgb",
+									"hex",
 									"webcolors",
 									"hsla",
+									"hex_compressed",
 									"hsl",
-									"hex",
-									"hex_compressed"
+									"rgb",
+									"rgba"
 								],
 								"compress_hex_output": true,
 								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
+								"current_syntax": "PHPC/PHP",
 								"enabled": true,
-								"last_updated": 1498052620.87,
+								"last_updated": 1498149211.12,
 								"scan_completion_scopes":
 								[
 								],
@@ -1598,7 +888,7 @@
 								"use_hex_argb": false
 							},
 							"highlight_line": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"syntax": "Packages/PHPC/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true,
 							"vintage":
@@ -1616,977 +906,14 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 15
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 2406.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 28417,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5306,
-								5306
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										5337,
-										5338
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5306,
-										5307
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 25
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 5525.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2459,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								186,
-								186
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 27
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 427.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4868,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								191,
-								191
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 6
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 3150.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5093,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3869,
-								3890
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										3896,
-										3897
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										3890,
-										3891
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_visual",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
 								"xpos": 0
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 5537.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Http/Request.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12879,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1162,
-								1162
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1163,
-										1164
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1162,
-										1163
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 34
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 1582.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13101,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								261,
-								261
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										107,
-										108
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hsl",
-									"hsla",
-									"rgb",
-									"hex_compressed",
-									"rgba",
-									"hex",
-									"webcolors"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".php",
-								"current_syntax": "PHP/PHP",
-								"enabled": true,
-								"last_updated": 1497961307.9,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 6
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 976.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -2609,18 +936,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.390830476795,
 			1.0
 		],
 		"rows":
@@ -2633,6 +953,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 222.0
 	},
 	"pinned_build_system": "",
 	"project": "learn-laravel-lifecycle.sublime-project",
@@ -2732,20 +1056,116 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "C:\\Users\\Asus\\Desktop\\laravel-application\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http"
+			"_cmdline_cd": "C:\\Users\\Asus\\Desktop\\laravel-application\\app"
+		},
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"21":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"23":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"24":
+				{
+					"group": 1,
+					"index": 1
+				},
+				"25":
+				{
+					"group": 1,
+					"index": 2
+				},
+				"26":
+				{
+					"group": 1,
+					"index": 4
+				},
+				"27":
+				{
+					"group": 1,
+					"index": 5
+				},
+				"28":
+				{
+					"group": 1,
+					"index": 6
+				},
+				"29":
+				{
+					"group": 1,
+					"index": 7
+				},
+				"30":
+				{
+					"group": 1,
+					"index": 8
+				},
+				"31":
+				{
+					"group": 1,
+					"index": 9
+				},
+				"33":
+				{
+					"group": 1,
+					"index": 3
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.390830476795,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
 		}
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 267.0,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

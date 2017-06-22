@@ -4,5 +4,12 @@
 		{
 			"path": "C:\\Users\\Asus\\Desktop\\laravel-application"
 		}
-	]
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"url": "http://laravelcycle.dev"
+		},
+	}
 }

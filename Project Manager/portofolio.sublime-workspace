@@ -69,6 +69,14 @@
 				"Project: Close"
 			],
 			[
+				"pcdp",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcep",
+				"Package Control: Enable Package"
+			],
+			[
 				"pcrp",
 				"Package Control: Remove Package"
 			],
@@ -155,10 +163,6 @@
 			[
 				"markdown",
 				"MarkdownLivePreview: Edit Current File"
-			],
-			[
-				"pcdp",
-				"Package Control: Disable Package"
 			],
 			[
 				"vinta",
@@ -350,9 +354,11 @@
 	},
 	"expanded_folders":
 	[
+		"/C/code/portofolio"
 	],
 	"file_history":
 	[
+		"/C/code/portofolio/.postcssrc.js",
 		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
 		"/C/code/portofolio/src/App.vue",
 		"/C/code/portofolio/src/components/Skills.vue",
@@ -479,8 +485,7 @@
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
 		"/C/Users/Asus/Desktop/go-pear.phar",
 		"/C/Users/Asus/Desktop/pear.php",
-		"/C/Users/Asus/Desktop/laravel-application/.env",
-		"/C/Users/Asus/Desktop/laravel-application/app/Http/Controllers/Auth/ResetPasswordController.php"
+		"/C/Users/Asus/Desktop/laravel-application/.env"
 	],
 	"find":
 	{
@@ -562,8 +567,8 @@
 						"selection":
 						[
 							[
-								269,
-								269
+								285,
+								285
 							]
 						],
 						"settings":
@@ -576,15 +581,15 @@
 								{
 									"1":
 									[
-										268,
-										269
+										298,
+										299
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -592,8 +597,8 @@
 								{
 									"1":
 									[
-										264,
-										265
+										285,
+										286
 									]
 								},
 								"unmatched":
@@ -617,31 +622,31 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -652,11 +657,11 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"color_helper.box_height": 15,
 							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
@@ -671,18 +676,18 @@
 								"allowed_colors":
 								[
 									"hex",
-									"rgba",
-									"webcolors",
-									"hex_compressed",
-									"rgb",
 									"hsla",
-									"hsl"
+									"rgb",
+									"hsl",
+									"hex_compressed",
+									"rgba",
+									"webcolors"
 								],
 								"compress_hex_output": true,
 								"current_ext": ".vue",
 								"current_syntax": "Vuejs Complete Package/vue",
 								"enabled": true,
-								"last_updated": 1498046984.74,
+								"last_updated": 1498149668.14,
 								"scan_completion_scopes":
 								[
 								],
@@ -717,7 +722,7 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 13
+								"xpos": 14
 							}
 						},
 						"translation.x": 0.0,
@@ -826,6 +831,10 @@
 		"vintage":
 		{
 			"_cmdline_cd": "C:\\code\\portofolio\\src"
+		},
+		"xdebug":
+		{
+			"hide_conflict": false
 		}
 	},
 	"show_minimap": true,

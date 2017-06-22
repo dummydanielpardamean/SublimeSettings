@@ -1,0 +1,7 @@
+// TODO : Overwrite default php snippets
+// First install Package Resource Viewer.
+// Extract "PHP" package (ctrl+shift+p -> extract -> select PHP). If PHP is not there, most probably you already have it extracted in your Packages folder, so delete it.
+// Enter the extracted PHP directory and run "rm *.sublime-snippet"
+// or remove all snippets, BUT NOT the other files.
+Rename this directory to something like PHPCustom (this step leaves syntax and other PHP stuff, but not the snippets).
+// Add PHP to ignored packages in the settings
