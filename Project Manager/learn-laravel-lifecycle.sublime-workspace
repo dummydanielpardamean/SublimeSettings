@@ -107,6 +107,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/Asus/Desktop/laravel-application/public/index.php",
+			"settings":
+			{
+				"buffer_size": 1783,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 8854,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -122,6 +138,10 @@
 			[
 				"close",
 				"Project: Close"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
 			],
 			[
 				"pcdp",
@@ -198,10 +218,6 @@
 			[
 				"pace",
 				"PackageResourceViewer: Extract Package"
-			],
-			[
-				"pclp",
-				"Package Control: List Packages"
 			],
 			[
 				"packeopen",
@@ -513,11 +529,17 @@
 	"expanded_folders":
 	[
 		"/C/Users/Asus/Desktop/laravel-application",
-		"/C/Users/Asus/Desktop/laravel-application/app"
+		"/C/Users/Asus/Desktop/laravel-application/public"
 	],
 	"file_history":
 	[
+		"/C/xampp/php/xdebug.log",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php",
+		"/C/Users/Asus/Desktop/laravel-application/storage/framework/views/bfdafbd68c8ec8a10cff7517c00883e6ebf1593d.php",
 		"/C/Users/Asus/Desktop/laravel-application/app/User.php",
+		"/C/Users/Asus/Desktop/laravel-application/app/Http/Kernel.php",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Completion Rules.tmPreferences",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Comments.tmPreferences",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/syntax_test_php.php",
@@ -537,7 +559,6 @@
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PackageSync/PackageSync.sublime-settings",
 		"/C/Users/Asus/Desktop/laravel-application/config/app.php",
 		"/C/Users/Asus/Desktop/laravel-application/config/broadcasting.php",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Container/Container.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
@@ -558,7 +579,6 @@
 		"/C/Users/Asus/Desktop/laravel-application/vendor/fzaninotto/faker/src/Faker/Provider/Base.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/symfony/http-foundation/Response.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php",
 		"/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Console/Application.php",
@@ -616,7 +636,6 @@
 		"/C/code/labs/PHP Chat with Ratchet/ChatHistory.php",
 		"/C/code/labs/PHP Chat with Ratchet/configurations/Eloquent.php",
 		"/C/code/labs/PHP Chat with Ratchet/src/Entities/Message.php",
-		"/C/xampp/php/php.ini",
 		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/PHP/Snippets/function-xx(-).sublime-snippet",
 		"/C/Users/Asus/Desktop/test.php",
 		"/C/code/labs/PHP Chat with Ratchet/vendor/composer/autoload_real.php",
@@ -641,10 +660,7 @@
 		"/C/Users/Asus/code/labs/PHP Chat with Rachet/src/Core.php",
 		"/C/Users/Asus/code/labs/PHP Chat with Rachet/composer.json",
 		"/C/Users/Asus/code/labs/PHP Chat with Rachet/css/bootstrap.min.css",
-		"/C/Users/Asus/code/labs/PHP Chat with Rachet/css",
-		"/C/Users/Asus/code/PortofolioLandingPage/src/components/Hello.vue",
-		"/C/Users/Asus/code/PortofolioLandingPage/src/App.vue",
-		"/C/Users/Asus/code/sample/src/App.vue"
+		"/C/Users/Asus/code/labs/PHP Chat with Rachet/css"
 	],
 	"find":
 	{
@@ -729,8 +745,294 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Asus/Desktop/laravel-application/public/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1591,
+								1591
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".php",
+								"current_syntax": "PHPC/PHP",
+								"enabled": false,
+								"last_updated": 1498227916.19
+							},
+							"syntax": "Packages/PHPC/PHP.sublime-syntax",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 16
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1422.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Asus/Desktop/laravel-application/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4650,
+								4650
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgba",
+									"hex_compressed",
+									"hex",
+									"hsl",
+									"hsla",
+									"webcolors",
+									"rgb"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHPC/PHP",
+								"enabled": true,
+								"last_updated": 1498648305.33,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHPC/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 22
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 5827.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -787,6 +1089,14 @@
 		"selected_items":
 		[
 			[
+				"illuminate/http/kernel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php"
+			],
+			[
+				"illuminate/contracts/http/kernel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Http\\Kernel.php"
+			],
+			[
 				"illuminate/routing/pipeline",
 				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php"
 			],
@@ -801,10 +1111,6 @@
 			[
 				"illuminate/kernel",
 				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php"
-			],
-			[
-				"illuminate/contracts/http/kernel",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Http\\Kernel.php"
 			],
 			[
 				"servicepro",
@@ -877,72 +1183,42 @@
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "C:\\Users\\Asus\\Desktop\\laravel-application\\app"
+			"_cmdline_cd": "C:\\Users\\Asus\\Desktop\\laravel-application\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http"
 		},
 		"xdebug":
 		{
 			"hide_conflict": false,
 			"restore_index":
 			{
-				"21":
+				"18":
 				{
 					"group": 0,
 					"index": 0
-				},
-				"22":
-				{
-					"group": 0,
-					"index": 1
-				},
-				"23":
-				{
-					"group": 1,
-					"index": 0
-				},
-				"24":
-				{
-					"group": 1,
-					"index": 1
-				},
-				"25":
-				{
-					"group": 1,
-					"index": 2
 				},
 				"26":
 				{
-					"group": 1,
-					"index": 4
+					"group": 0,
+					"index": 1
 				},
-				"27":
+				"37":
+				{
+					"group": 2,
+					"index": 1
+				},
+				"38":
 				{
 					"group": 1,
-					"index": 5
+					"index": 0
 				},
-				"28":
+				"39":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"40":
 				{
 					"group": 1,
-					"index": 6
-				},
-				"29":
-				{
-					"group": 1,
-					"index": 7
-				},
-				"30":
-				{
-					"group": 1,
-					"index": 8
-				},
-				"31":
-				{
-					"group": 1,
-					"index": 9
-				},
-				"33":
-				{
-					"group": 1,
-					"index": 3
+					"index": 1
 				}
 			},
 			"restore_layout":
@@ -952,25 +1228,32 @@
 					[
 						0,
 						0,
-						1,
+						2,
 						1
 					],
 					[
-						1,
 						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
 						2,
-						1
+						2
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.390830476795,
+					0.5,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.410407239819,
 					1.0
 				]
 			}
