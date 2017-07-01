@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"FileManager"
 	],
 	"installed_packages":
 	[
@@ -26,6 +25,7 @@
 		"FindKeyConflicts",
 		"Flat Colors",
 		"GitGutter",
+		"GitSavvy",
 		"Handlebars",
 		"HostsEdit",
 		"HyperClick",
